@@ -47,4 +47,4 @@ print(f'Decrypted: {decrypted.decode()}')
 ```
 Author
 
-This implementation was developed by Jordan Lassers as part of a cryptography course project.
+This implementation was developed by Jordan Lassers as part of an Information Security course project.
